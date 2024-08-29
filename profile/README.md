@@ -22,7 +22,7 @@ https://wb.is-a.dev/thingai/experimental/models
 
 Databases are exclusive to ThingAI 2.0 Pro.
 
-# Credits
+# People who helped bring ThingAI to life
 [Cryptid](https://github.com/NotCryptid) - ThingAI Models, ThingAI API, ThingAI Website, ThingAI Extension
 
 [WindowsBuild3r](https://github.com/davidctinescu) - Backup Server Hosting, API Bug Fixes, Website Bug Fixes
