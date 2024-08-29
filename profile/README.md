@@ -25,12 +25,12 @@ Databases are exclusive to ThingAI 2.0 Pro.
 # Credits
 [Cryptid](https://github.com/NotCryptid) - ThingAI Models, ThingAI API, ThingAI Website, ThingAI Extension
 
-[WindowsBuild3r](https://github.com/davidctinescu) - Backup Server Hosting, Bug Fixes
+[WindowsBuild3r](https://github.com/davidctinescu) - Backup Server Hosting, API Bug Fixes, Website Bug Fixes
 
-[MubiLop](https://github.com/cicerorph) - Bug Fixes, Patching Vercel
+[MubiLop](https://github.com/cicerorph) - API Bug Fixes, Patching API Vercel
 
-[Milo](https://github.com/MiloDev123) - Bug Fixes
+[Milo](https://github.com/MiloDev123) - API Bug Fixes
 
-[Gen1x](https://github.com/Gen1x-ALT/) - Bug Fixes
+[Gen1x](https://github.com/Gen1x-ALT/) - API Bug Fixes
 
 [Gnarpy](https://github.com/gnarpymybeloved) - Being Adorable :3
