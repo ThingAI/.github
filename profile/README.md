@@ -33,4 +33,4 @@ Databases are exclusive to ThingAI 2.0 Pro.
 
 [Gen1x](https://github.com/Gen1x-ALT/) - API Bug Fixes
 
-[Gnarpy](https://github.com/gnarpymybeloved) - Being Adorable :3
+[Gnarpy](https://github.com/gnarpymybeloved) - Being Adorable, Sending Space Cash for Funding
