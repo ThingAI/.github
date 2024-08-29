@@ -17,7 +17,7 @@ https://wb.is-a.dev/thingai/experimental/models
 ```
 # Example Request
 ```
-{"model":"ThingAI 2.0 Pro","process_draw_command": "yes","messages":[\{"role":"user","content":"hi"}], "database": {"Key": "Content", "Other Key": "More Content"}, "memories": {"26.08.2024 12:51:26": "The user said they like skittles"}, "time": "26.08.2024 12:52:14", "dmmu_enabled": "true"}
+{"model":"ThingAI 2.0 Pro","process_draw_command": "yes","messages":[\{"role":"user","content":"hi"}], "database": {"Key": "Content", "Other Key": "More Content"}, "memories": {"26.08.2024 12:51:26": "The user said they like skittles"}, "time": "26.08.2024 12:52:14", "dmmu_enabled": "auto"}
 ```
 
 Databases are exclusive to ThingAI 2.0 Pro.
