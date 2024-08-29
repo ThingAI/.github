@@ -29,7 +29,7 @@ Databases are exclusive to ThingAI 2.0 Pro.
 
 [MubiLop](https://github.com/cicerorph) - API Bug Fixes, Patching API Vercel
 
-[Milo](https://github.com/MiloDev123) - API Bug Fixes
+[Milo](https://github.com/MiloDev123) - API Bug Fixes, Cleaning up API Code
 
 [Gen1x](https://github.com/Gen1x-ALT/) - API Bug Fixes
 
