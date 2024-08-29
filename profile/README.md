@@ -32,3 +32,5 @@ Databases are exclusive to ThingAI 2.0 Pro.
 [Milo](https://github.com/MiloDev123) - Bug Fixes.
 
 [Gen1x](https://github.com/Gen1x-ALT/) - Bug Fixes.
+
+[Gnarpy](https://github.com/gnarpymybeloved) - Being Adorable :3
