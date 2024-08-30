@@ -3,17 +3,17 @@ yeh
 # API Urls
 Main:
 ```
-https://thingai-api-experimental.vercel.app/process-request
+https://api.thingai.xyz/process-request
 ```
 ```
-https://thing-ai-api-experimental.vercel.app/models
+https://api.thingai.xyz/models
 ```
 Backup:
 ```
-https://wb.is-a.dev/thingai/experimental/process-request
+https://wb.is-a.dev/thingai/production/process-request
 ```
 ```
-https://wb.is-a.dev/thingai/experimental/models
+https://wb.is-a.dev/thingai/production/models
 ```
 # Example Request
 ```
