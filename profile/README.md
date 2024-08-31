@@ -27,7 +27,7 @@ Databases are exclusive to ThingAI 2.0 Pro.
 
 [WindowsBuild3r](https://github.com/davidctinescu) - Backup Server Hosting, API Bug Fixes, Website Bug Fixes
 
-[Gen1x](https://github.com/Gen1x-ALT/) - API Bug Fixes, Rewriting API, Fixing the API
+[Gen1x](https://github.com/Gen1x-ALT/) - API Bug Fixes, Rewriting API, DMMU
 
 [MubiLop](https://github.com/cicerorph) - API Bug Fixes, Patching API Vercel
 
