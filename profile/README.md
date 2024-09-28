@@ -19,8 +19,11 @@ https://wb.is-a.dev/thingai/production/models
 ```
 {"model":"ThingAI 2.0 Pro","process_draw_command": "yes","messages":[\{"role":"user","content":"hi"}], "database": {"Key": "Content", "Other Key": "More Content"}, "memories": {"26.08.2024 12:51:26": "The user said they like skittles"}, "ip": "auto", "dmmu_enabled": "auto"}
 ```
-
 Databases are exclusive to ThingAI 2.0 Pro.
+# Example Response
+```
+{"role":"assistant", "content":"Here is your cat image", "image":"https://yeetyourfiles.lol/download/d37aa18d-28ae-4a0a-b3cb-23d824e13ea9", "memory": null}
+```
 
 # People who helped bring ThingAI to life
 [Cryptid](https://github.com/NotCryptid) - ThingAI Models, ThingAI API, ThingAI Website, ThingAI Extension
