@@ -1,3 +1,5 @@
+# **PROJECT MOST LIKELY ABANDONED**
+
 # Welcome to the amazing ThingAI github organization
 Website: https://thingai.xyz
 # API Urls
